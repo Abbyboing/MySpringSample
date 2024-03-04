@@ -13,16 +13,5 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/commons-logging-1.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-aop-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-beans-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-context-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-core-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-expression-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-jdbc-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-orm-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-tx-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-web-4.3.30.RELEASE.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/jar_files/spring-webmvc-4.3.30.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
